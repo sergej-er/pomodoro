@@ -9,7 +9,12 @@ Try the demo [here](https://pomodoro-phi.vercel.app)
 
 Powered by [Vercel](https://vercel.com/)
 
-## Available Scripts
+# Todos
+- [ ] Authentication
+- [ ] Add Tasks
+- [ ] Statistics
+
+## Run locally
 
 In the project directory, you can run:
 
