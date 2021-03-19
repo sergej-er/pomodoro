@@ -131,7 +131,7 @@ class Timer extends Component {
             icon={isRunning ? <AiOutlinePause /> : <AiFillCaretRight />}
             onClick={this.handleToggle}
           >
-            {isRunning ? 'Stop' : 'Play'}
+            {isRunning ? 'Stop' : 'Start'}
           </Button>
           <Button
             type='primary'
